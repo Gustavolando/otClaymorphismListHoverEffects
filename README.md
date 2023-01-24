@@ -1,6 +1,6 @@
 ## Claymorphism List Hover Effects
 
-A cool list card wirg Claymorphism CSS Effects.
+A cool list card with Claymorphism style CSS Effects.
 
 I practiced here Claymorphism, lights and shadows, gradients and cool color composition.
 
